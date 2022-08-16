@@ -1,0 +1,16 @@
+----------
+
+Tue Aug 16 2022 18:23:59 GMT+0900 (한국 표준시)
+
+error: cannot run gpg: No such file or directory
+error: gpg failed to sign the data
+fatal: failed to write commit object
+
+
+----------
+
+Tue Aug 16 2022 18:24:00 GMT+0900 (한국 표준시)
+
+Everything up-to-date
+
+
